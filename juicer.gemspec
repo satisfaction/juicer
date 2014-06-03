@@ -126,6 +126,6 @@ Happy juicing!
     s.add_dependency(%q<redgreen>, [">= 1.2.2"])
     s.add_dependency(%q<cmdparse>, [">= 0"])
     s.add_dependency(%q<nokogiri>, [">= 1.5.0"])
-    s.add_dependency(%q<rubyzip>, ["= 0.9.9"])
+    s.add_dependency(%q<rubyzip>, [">= 1.1.4"])
   end
 end
